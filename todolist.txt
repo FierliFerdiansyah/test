@@ -1,4 +1,5 @@
 Rencana Konten
 
 1.belajar-redux
+ *Membuat aplikasi e commerce menggunakan state management redux
 2.belajar nextjs
