@@ -1,0 +1,4 @@
+Rencana Konten
+
+1.belajar-redux
+2.belajar nextjs
