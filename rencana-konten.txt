@@ -6,6 +6,8 @@ Rencana Konten
   - React js
   - Angular
   - Astro JS
+  - Vue JS
+
 4 php Framework
   - Laravel
   -code igniter
