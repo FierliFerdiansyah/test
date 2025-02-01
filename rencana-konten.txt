@@ -8,3 +8,6 @@ Rencana Konten
 4 php Framework
   - Laravel
   -code igniter
+5.python
+6.javascript
+
