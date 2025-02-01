@@ -5,6 +5,7 @@ Rencana Konten
 3.framework javscript
   - React js
   - Angular
+  - Vue JS
 4 php Framework
   - Laravel
   -code igniter
