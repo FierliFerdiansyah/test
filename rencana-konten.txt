@@ -2,7 +2,12 @@ Rencana Konten
 
 1.belajar-redux
 2.belajar nextjs
-3.laravel 
-4.vue js
+3.framework javscript
+  - React js
+  - Angular
+4 php Framework
+  - Laravel
+  -code igniter
 5.python
 6.javascript
+
