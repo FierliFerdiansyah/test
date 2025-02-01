@@ -5,3 +5,4 @@ Rencana Konten
 3.laravel 
 4.vue js
 5.python
+6.javascript
