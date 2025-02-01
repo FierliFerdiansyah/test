@@ -2,3 +2,7 @@ Rencana Konten
 
 1.belajar-redux
 2.belajar nextjs
+3.laravel 
+4.vue js
+5.python
+6.javascript
